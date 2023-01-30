@@ -92,7 +92,3 @@ cd ..
 mv select1/{1.txt,j1.json} select2
 
 
-=====================
-1) Посмотреть где я - pwd
-2) Создать папку - mkdir foldername
-3) Зайти в папку - cd foldernameGit1
